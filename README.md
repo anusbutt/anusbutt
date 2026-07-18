@@ -22,8 +22,9 @@ Its flagship product, **[Duct Lead Qualifier](https://www.omniveer.com/duct-lead
 
 ## Stack
 
-**AI systems:** OpenAI Agents SDK · RAG · chatbots · workflow automation<br>
-**Product:** Python · TypeScript · FastAPI · Next.js · React · PostgreSQL · Supabase
+**Agent systems:** Skills · MCP integrations · RAG · chatbots · workflow automation<br>
+**Product:** Python · TypeScript · FastAPI · Next.js · React · PostgreSQL · Supabase<br>
+**Tools:** Claude Code · Git · GitHub
 
 > Have a real workflow that should become an AI worker? **[Start with Omniveer →](https://www.omniveer.com)**
 
