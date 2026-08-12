@@ -1,4 +1,4 @@
-```md
+
 # Anas Butt
 
 **AI Engineer & Full-Stack Engineer** building reliable AI agents, developer tools, and production software.
@@ -14,4 +14,4 @@ Founder of **Omniveer** · Open to AI Engineer & Full-Stack Engineer roles.
 ### Find me
 
 [Portfolio](https://anasbutt.site) · [GitHub](https://github.com/anusbutt) · [LinkedIn](https://www.linkedin.com/in/anus-yousuf) · [X](https://x.com/iamanusbutt)
-```
+
