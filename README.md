@@ -1,1 +1,17 @@
-# Anas Butt **AI Engineer & Full-Stack Engineer** I build AI agent systems, developer tools, and full-stack products with a focus on reliability, observability, human-in-the-loop workflows, and practical software engineering. Currently exploring better ways to build and operate coding agents, especially around **memory, verification, tool use, and agent reliability**. Founder of **Omniveer**. Open to **AI Engineer and Full-Stack Engineer opportunities**, open-source collaboration, and interesting engineering problems. ## Featured Work ### [GraphKeeper](https://github.com/anusbutt/Graph_Keeper) Grounded, auditable, Git-backed memory for coding agents. Built to preserve useful project knowledge across agent sessions using evidence-backed claims, provenance, explicit supersession, and repository-local storage. Supports Codex and Claude Code. **TypeScript · CLI tooling · AI agents · Git · OSS** ### [AgentReplay](https://github.com/anusbutt/agent-replay) A flight recorder and time-travel debugger for AI agents. Captures agent runs, helps investigate failures, and lets developers test fixes against the original execution context without repeating real-world side effects. **Python · FastAPI · PostgreSQL · Next.js · AI agents** ### [Prospector](https://github.com/anusbutt/Prospector) An evidence-driven research and outreach pipeline that researches businesses, creates source-backed drafts, and keeps a human in control before anything is sent. **Python · AI workflows · Web research · Human-in-the-loop** ## What I Work With **AI / Agents:** LLM APIs, agent workflows, tool use, MCP, evaluation, memory, human-in-the-loop systems **Backend:** Python, FastAPI, Node.js, PostgreSQL, APIs **Frontend:** TypeScript, Next.js, React, Tailwind CSS **Engineering:** Git, GitHub Actions, testing, CLI tooling, open source ## Currently Interested In - Reliable coding agents - Agent memory and context engineering - AI evaluation and verification - Developer tooling - Agent observability and debugging - Production AI systems ## Connect [Portfolio](https://anasbutt.site) · [LinkedIn](https://www.linkedin.com/in/anus-yousuf) · [X](https://x.com/iamanusbutt) If you're working on interesting problems around AI agents, developer tooling, or full-stack systems, feel free to reach out.
+```md
+# Anas Butt
+
+**AI Engineer & Full-Stack Engineer** building reliable AI agents, developer tools, and production software.
+
+Currently building **[GraphKeeper](https://github.com/anusbutt/Graph_Keeper)** — grounded, auditable memory for coding agents.
+
+Founder of **Omniveer** · Open to AI Engineer & Full-Stack Engineer roles.
+
+### Stack
+
+`TypeScript` `Python` `Next.js` `FastAPI` `PostgreSQL` `AI Agents` `GitHub Actions`
+
+### Find me
+
+[Portfolio](https://anasbutt.site) · [GitHub](https://github.com/anusbutt) · [LinkedIn](https://www.linkedin.com/in/anus-yousuf) · [X](https://x.com/iamanusbutt)
+```
